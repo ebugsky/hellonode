@@ -1,8 +1,14 @@
 {
+  "user": "ebugsky",
   "name": "hellonode",
+  "domain": "localhost",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/ebugsky/hellonode.git"
+   },
   "scripts": {
     "start": "server.js"
   },
   "main" : "./server.js",
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
